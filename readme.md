@@ -1,5 +1,5 @@
-####SharpRetro
-##Sharp retro is a small but very powerful nintendo entertainment system emulator. 
+SharpRetro
+Sharp retro is a small but very powerful nintendo entertainment system emulator. 
 
 Features
 ------
@@ -21,4 +21,4 @@ Whats new in 0.2beta
 
 
 There is no source avaliable for this project at the moment.
-You can view ######SharpRetro [here](http://www.sharpboy.co.uk/viewtopic.php?pid=3#p3)
+You can view SharpRetro [here](http://www.sharpboy.co.uk/viewtopic.php?pid=3#p3)
