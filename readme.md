@@ -22,4 +22,4 @@ Whats new in 0.2beta
 
 
 There is no source avaliable for this project at the moment.
-You can view SharpRetro [here](http://www.sharpboy.co.uk/viewtopic.php?pid=3#p3)
+You can view SharpRetro [here](https://www.sharpboy.co.uk/index.php?controller=page&action=view&id_page=1)
